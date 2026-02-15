@@ -1,3 +1,4 @@
+//Clase Piloto con los atributos nombre, escuderia y puntos 
 public class Piloto {
     private String nombre;
     private String escuderia;
